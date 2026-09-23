@@ -45,3 +45,16 @@ python Hi_5_.py
 > `perdiste_batalla_naval.png`
 
 ## Estructura del proyecto
+Hi_5_.py # Código fuente completo (~1160 líneas)
+pantalla_principal.png
+intruccion_Sopa.png
+*.png # Assets visuales
+
+
+## Contexto académico
+Proyecto grupal — Algoritmos y Estructuras de Datos II, FPUNA (2023)  
+Arquitectura monolítica con navegación entre pantallas via Canvas de Tkinter.
+
+## Autor
+**Marcos González Lovera** — [@megl-fp](https://github.com/megl-fp)  
+Ingeniería Informática — FPUNA
